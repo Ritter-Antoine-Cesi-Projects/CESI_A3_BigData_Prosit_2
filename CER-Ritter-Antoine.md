@@ -264,15 +264,21 @@ Après avoir analysé les données provenant de différentes sources semi-struct
 - Valeur : Accent mis sur l'extraction d'informations utiles et exploitables des données pour générer des insights significatifs et prendre des décisions basées sur les données.
 
 ### Importance
+
 - Gestion des Ressources : Aider à allouer efficacement les ressources de stockage et de traitement pour gérer les volumes et la diversité des données.
 - Stratégies d'Analyse : Développer des stratégies adaptées pour extraire des insights précieux des données en tenant compte de leur vélocité et véracité.
 - Innovation : Favoriser l'innovation en utilisant les données pour prendre des décisions éclairées, améliorer les processus opérationnels et créer de nouvelles opportunités commerciales.
 - Conformité : Assurer que les méthodes de gestion et d'analyse des données respectent les réglementations et les normes de l'industrie.
 - Compétitivité : Utiliser les données pour obtenir un avantage concurrentiel en fournissant des produits et services plus personnalisés et efficaces.
+
 ## Qu’est-ce qu’un schéma décisionnel
+
 ### Schéma Décisionnel
+
 - Définition : Un schéma décisionnel, ou modèle de données décisionnel, est une représentation structurelle des données utilisée dans les systèmes décisionnels. Il facilite l'analyse et le reporting en structurant les données de manière à optimiser les requêtes analytiques.
+
 ### Types de Modèles de Schéma Décisionnel
+
 - Modèle en Étoile (Star Schema) :
 
     - Structure : Comprend une table centrale (table de faits) connectée à plusieurs tables périphériques (tables de dimensions).
@@ -285,7 +291,9 @@ Après avoir analysé les données provenant de différentes sources semi-struct
 
     - Structure : Contient plusieurs tables de faits qui partagent des tables de dimensions communes.
     - Exemples : Un schéma avec des tables de faits pour les ventes et les retours, partageant des dimensions communes comme temps, produit, client.
+
 ### Importance
+
 - Optimisation des Requêtes : Permet des requêtes rapides et efficaces pour l'analyse, minimisant le temps de réponse des systèmes décisionnels.
 - Facilité de Compréhension : Simplifie la compréhension des relations entre les données pour les utilisateurs finaux, facilitant la création de rapports et d’analyses.
 - Support à la Décision : Fournit une base solide pour les analyses décisionnelles et le reporting stratégique, permettant aux décideurs de prendre des décisions basées sur des données précises et pertinentes.
